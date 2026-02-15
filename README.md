@@ -56,7 +56,7 @@ Follow these steps to deploy the pipeline locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/market-ingestion-pipeline.git](https://github.com/yourusername/market-ingestion-pipeline.git)
+git clone [https://github.com/KMoex-HZ/market-ingestion-pipeline.git](https://github.com/KMoex-HZ/market-ingestion-pipeline.git)
 cd market-ingestion-pipeline
 
 ```
