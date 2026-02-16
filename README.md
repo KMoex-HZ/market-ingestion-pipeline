@@ -15,6 +15,12 @@ This project demonstrates **Data Engineering best practices** including modular 
 
 The pipeline follows a modern data engineering workflow:
 
+<p align="center">
+  <img src="assets/architecture-crypto.jpeg" width="700" alt="Crypto ETL Architecture">
+  <br>
+  <em>Figure 1: Simplified ETL Flow - Python API Extraction to PostgreSQL.</em>
+</p>
+
 1.  **Extract:** Python script fetches real-time data from the **CoinGecko API**.
 2.  **Transform:** Data is cleaned, formatted, and validated using **Pandas**.
 3.  **Load:** Processed data is ingested into a **PostgreSQL** database.
